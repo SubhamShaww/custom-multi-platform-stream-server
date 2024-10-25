@@ -1,0 +1,25 @@
+{
+  "name": "custom-multi-platform-stream-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamShaww/custom-multi-platform-stream-server.git"
+  },
+  "author": "Subham Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhamShaww/custom-multi-platform-stream-server/issues"
+  },
+  "homepage": "https://github.com/SubhamShaww/custom-multi-platform-stream-server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
